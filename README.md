@@ -1,4 +1,4 @@
-iOS VIPER 架构实力
+iOS VIPER 架构
 
 参考:
 
